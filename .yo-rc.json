@@ -1,0 +1,37 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.mycompany.bugtracker"
+    },
+    "jhipsterVersion": "6.0.1",
+    "applicationType": "monolith",
+    "baseName": "BugTrackerJHipster",
+    "packageName": "com.mycompany.bugtracker",
+    "packageFolder": "com/mycompany/bugtracker",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "ODZlODg2NDc1MGRlZDhjNjlhNjdiOGFmMjk4MjcxMGM0OThlYzI3YjZjOGUyNGE5NTMzZDY0MTkxZTE3YjhlNGY0YzM2MDNmZTU2NTVkZTI1ODAxMzdkYzM1ODI4YmZhZDJiZWQ3NTdiMjUxZWU4OGY3MTk5MWMzMDE4NjdkOTg=",
+    "clientFramework": "angularX",
+    "clientTheme": "none",
+    "clientThemeVariant": "",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false
+  }
+}
